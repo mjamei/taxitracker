@@ -5,8 +5,8 @@
   "private": true,
   "dependencies": {
     "express": "latest",
+    "moment": "^2.10.2",
     "polyline": "latest",
     "sqlite3": "latest"
-
   }
 }

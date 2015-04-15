@@ -1,0 +1,1412 @@
+     { "type" : "Feature Collection",
+        {"features" : [
+                 { "type" : "Feature",
+            "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["93","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:04", "value" : "25.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 1,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:05", "value" : "50.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 2,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:05", "value" : "62.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 3,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:05", "value" : "36.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 4,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:05", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 5,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:05", "value" : "18.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 6,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:05", "value" : "60.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 7,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:05", "value" : "53.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 8,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:05", "value" : "57.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 9,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:05", "value" : "45.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 10,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:05", "value" : "17.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 11,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:05", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 12,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:05", "value" : "5.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 13,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:05", "value" : "5.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 14,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:05", "value" : "23.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 15,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:05", "value" : "36.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 16,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:05", "value" : "51.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 17,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:05", "value" : "16.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 18,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:05", "value" : "53.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 19,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:05", "value" : "60.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 20,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:05", "value" : "13.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 21,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:05", "value" : "57.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 22,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:05", "value" : "24.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 23,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E48","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:00:06", "value" : "33.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 24,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["RC1","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:00:08", "value" : "16.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 25,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:17", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 26,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E48","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:00:18", "value" : "25.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 27,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["87","TRANSPRT"]},
+            "properties" : { "name" : "2012-09-07 00:00:18", "value" : "10.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 28,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["77","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:00:18", "value" : "24.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 29,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["93","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:19", "value" : "22.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 30,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["57","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:24", "value" : "4.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 31,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E48","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:00:33", "value" : "27.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 32,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["77","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:00:33", "value" : "19.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 33,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["T01","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:00:38", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 34,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["RC1","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:00:38", "value" : "9.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 35,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["93","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:39", "value" : "32.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 36,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["87","TRANSPRT"]},
+            "properties" : { "name" : "2012-09-07 00:00:48", "value" : "17.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 37,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E48","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:00:53", "value" : "28.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 38,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["93","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:00:54", "value" : "30.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 39,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["77","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:00:58", "value" : "24.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 40,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E48","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:01:07", "value" : "33.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 41,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["93","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:01:09", "value" : "30.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 42,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["77","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:01:13", "value" : "20.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 43,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["RC2","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:01:13", "value" : "16.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 44,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["87","TRANSPRT"]},
+            "properties" : { "name" : "2012-09-07 00:01:18", "value" : "21.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 45,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E48","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:01:19", "value" : "34.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 46,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["55","DISPATCH"]},
+            "properties" : { "name" : "2012-09-07 00:01:21", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 47,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["93","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:01:24", "value" : "19.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 48,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["RC2","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:01:28", "value" : "15.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 49,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E48","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:01:29", "value" : "40.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 50,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["87","TRANSPRT"]},
+            "properties" : { "name" : "2012-09-07 00:01:33", "value" : "30.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 51,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["55","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:01:37", "value" : "32.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 52,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["55","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:01:37", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 53,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["55","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:01:37", "value" : "15.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 54,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["55","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:01:37", "value" : "24.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 55,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["55","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:01:37", "value" : "20.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 56,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E48","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:01:39", "value" : "31.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 57,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["77","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:01:43", "value" : "12.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 58,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E14","DISPATCH"]},
+            "properties" : { "name" : "2012-09-07 00:01:47", "value" : "13.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 59,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["93","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:01:49", "value" : "11.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 60,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["RC2","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:01:49", "value" : "26.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 61,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["87","TRANSPRT"]},
+            "properties" : { "name" : "2012-09-07 00:01:53", "value" : "18.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 62,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E48","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:01:53", "value" : "33.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 63,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["77","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:02:13", "value" : "1.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 64,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["RC2","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:02:13", "value" : "18.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 65,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["FLOG","IN-SERV"]},
+            "properties" : { "name" : "2012-09-07 00:02:15", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 66,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["93","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:02:19", "value" : "13.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 67,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["FLOG","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:02:19", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 68,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E48","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:02:23", "value" : "7.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 69,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["87","TRANSPRT"]},
+            "properties" : { "name" : "2012-09-07 00:02:23", "value" : "16.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 70,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["55","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:02:24", "value" : "15.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 71,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["77","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:02:38", "value" : "2.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 72,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["RC2","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:02:43", "value" : "17.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 73,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["93","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:02:49", "value" : "17.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 74,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["FLOG","TRANSPRT"]},
+            "properties" : { "name" : "2012-09-07 00:02:50", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 75,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["FLOG","TRANSPRT"]},
+            "properties" : { "name" : "2012-09-07 00:02:50", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 76,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E48","ON RADIO"]},
+            "properties" : { "name" : "2012-09-07 00:02:51", "value" : "9.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 77,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E48","ON RADIO"]},
+            "properties" : { "name" : "2012-09-07 00:02:51", "value" : "7.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 78,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E48","ON RADIO"]},
+            "properties" : { "name" : "2012-09-07 00:02:51", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 79,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E48","ON RADIO"]},
+            "properties" : { "name" : "2012-09-07 00:02:51", "value" : "13.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 80,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E48","ON RADIO"]},
+            "properties" : { "name" : "2012-09-07 00:02:52", "value" : "9.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 81,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["55","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:02:54", "value" : "24.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 82,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:02:54", "value" : "5.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 83,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["87","TRANSPRT"]},
+            "properties" : { "name" : "2012-09-07 00:02:58", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 84,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["77","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:03:03", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 85,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["77","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:03:03", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 86,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["87","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:03:03", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 87,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["77","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:03:03", "value" : "2.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 88,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E14","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:03:08", "value" : "25.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 89,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E14","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:03:08", "value" : "25.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 90,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E14","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:03:08", "value" : "28.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 91,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:03:08", "value" : "41.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 92,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E14","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:03:08", "value" : "13.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 93,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E14","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:03:08", "value" : "19.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 94,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["77","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:03:09", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 95,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["55","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:03:09", "value" : "32.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 96,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["RC2","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:03:13", "value" : "11.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 97,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:03:18", "value" : "45.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 98,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E48","ON RADIO"]},
+            "properties" : { "name" : "2012-09-07 00:03:19", "value" : "13.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 99,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["B03","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:03:20", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 100,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["93","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:03:24", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 101,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:03:28", "value" : "57.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 102,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["55","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:03:34", "value" : "20.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 103,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["55","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:03:35", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 104,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["55","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:03:35", "value" : "20.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 105,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["RC1","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:03:38", "value" : "4.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 106,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:03:38", "value" : "60.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 107,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["T01","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:03:39", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 108,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["77","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:03:43", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 109,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["RC2","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:03:43", "value" : "7.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 110,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E01","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:03:44", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 111,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E39","ON RADIO"]},
+            "properties" : { "name" : "2012-09-07 00:03:44", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 112,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:03:48", "value" : "60.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 113,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["B03","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:03:48", "value" : "42.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 114,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E48","ON RADIO"]},
+            "properties" : { "name" : "2012-09-07 00:03:49", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 115,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["RC2","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:03:54", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 116,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["RC2","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:03:54", "value" : "7.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 117,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:03:58", "value" : "62.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 118,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["B03","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:03:58", "value" : "48.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 119,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["RC1","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:03:58", "value" : "39.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 120,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["82","DISPATCH"]},
+            "properties" : { "name" : "2012-09-07 00:04:00", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 121,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E03","DISPATCH"]},
+            "properties" : { "name" : "2012-09-07 00:04:00", "value" : "9.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 122,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["55","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:04:04", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 123,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E31","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:04:07", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 124,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["B03","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:04:08", "value" : "52.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 125,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:04:08", "value" : "57.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 126,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["RC1","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:04:08", "value" : "47.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 127,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E29","IN-SERV"]},
+            "properties" : { "name" : "2012-09-07 00:04:09", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 128,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["B02","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:04:11", "value" : "3.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 129,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["RC2","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:04:13", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 130,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E14","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:04:14", "value" : "19.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 131,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["RC1","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:04:18", "value" : "49.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 132,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:04:18", "value" : "53.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 133,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["B03","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:04:18", "value" : "61.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 134,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["B03","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:04:28", "value" : "62.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 135,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["RC1","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:04:28", "value" : "50.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 136,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:04:28", "value" : "51.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 137,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E14","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:04:36", "value" : "28.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 138,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["B03","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:04:38", "value" : "62.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 139,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:04:38", "value" : "53.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 140,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["RC1","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:04:38", "value" : "52.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 141,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:04:48", "value" : "50.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 142,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["RC1","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:04:48", "value" : "51.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 143,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["B03","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:04:48", "value" : "62.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 144,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E14","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:04:50", "value" : "25.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 145,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E03","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:04:57", "value" : "1.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 146,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E03","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:04:57", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 147,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E03","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:04:57", "value" : "6.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 148,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E03","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:04:57", "value" : "9.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 149,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E03","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:04:57", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 150,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E03","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:04:57", "value" : "10.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 151,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["RC1","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:04:58", "value" : "50.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 152,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["B03","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:04:58", "value" : "60.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 153,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:04:59", "value" : "36.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 154,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["82","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:01", "value" : "5.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 155,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["82","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:01", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 156,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["82","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:01", "value" : "4.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 157,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["82","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:01", "value" : "16.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 158,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["82","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:01", "value" : "5.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 159,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["82","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:01", "value" : "1.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 160,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["82","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:01", "value" : "4.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 161,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["82","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:01", "value" : "19.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 162,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["82","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:01", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 163,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["82","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:01", "value" : "5.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 164,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["82","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:01", "value" : "6.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 165,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["82","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:01", "value" : "7.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 166,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["B03","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:05:08", "value" : "59.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 167,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["RC1","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:08", "value" : "51.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 168,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E29","IN-SERV"]},
+            "properties" : { "name" : "2012-09-07 00:05:12", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 169,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E14","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:14", "value" : "25.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 170,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["RC1","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:18", "value" : "48.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 171,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["B03","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:05:18", "value" : "59.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 172,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["B03","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:05:28", "value" : "53.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 173,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["67","DISPATCH"]},
+            "properties" : { "name" : "2012-09-07 00:05:28", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 174,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["RC1","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:28", "value" : "52.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 175,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E36","DISPATCH"]},
+            "properties" : { "name" : "2012-09-07 00:05:28", "value" : "3.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 176,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:05:28", "value" : "24.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 177,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["RC1","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:38", "value" : "51.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 178,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["67","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:38", "value" : "25.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 179,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["67","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:38", "value" : "13.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 180,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["67","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:38", "value" : "30.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 181,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["67","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:38", "value" : "34.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 182,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["67","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:38", "value" : "18.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 183,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["67","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:38", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 184,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["B03","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:05:38", "value" : "34.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 185,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["67","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:38", "value" : "34.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 186,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["67","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:38", "value" : "37.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 187,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["67","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:38", "value" : "32.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 188,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E14","ON RADIO"]},
+            "properties" : { "name" : "2012-09-07 00:05:41", "value" : "22.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 189,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E14","ON RADIO"]},
+            "properties" : { "name" : "2012-09-07 00:05:41", "value" : "25.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 190,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E14","ON RADIO"]},
+            "properties" : { "name" : "2012-09-07 00:05:41", "value" : "25.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 191,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E48","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:05:42", "value" : "42.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 192,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E48","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:05:42", "value" : "41.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 193,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E48","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:05:42", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 194,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E48","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:05:42", "value" : "13.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 195,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E48","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:05:42", "value" : "31.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 196,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54","AT SCENE"]},
+            "properties" : { "name" : "2012-09-07 00:05:44", "value" : "18.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 197,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["E14","ON RADIO"]},
+            "properties" : { "name" : "2012-09-07 00:05:44", "value" : "22.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 198,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["T48","ON RADIO"]},
+            "properties" : { "name" : "2012-09-07 00:05:46", "value" : "0.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 199,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["RC1","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:48", "value" : "46.0"}
+            },
+                 { "type" : "Feature",
+            "id" : 200,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["82","ENROUTE"]},
+            "properties" : { "name" : "2012-09-07 00:05:49", "value" : "5.0"}
+            },
+                 ]
+    }
+        

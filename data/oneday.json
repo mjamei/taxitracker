@@ -1,0 +1,4226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "": "0",
+        "vehicleid": "93",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:04",
+        "velocity": "25.0",
+        "direction": "78.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000B62DCA6C90955EC0452A8C2D04E94240",
+        "marvlis_bayes_id": "13706840"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33694,
+          37.82044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "1",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:05",
+        "velocity": "50.0",
+        "direction": "81.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000F67AF7C77B955EC08CD651D504E94240",
+        "marvlis_bayes_id": "13706841"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33568,
+          37.82046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "2",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:05",
+        "velocity": "62.0",
+        "direction": "69.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E610000023A12DE752965EC08DEE2076A6E84240",
+        "marvlis_bayes_id": "13706842"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34881,
+          37.81758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "3",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:05",
+        "velocity": "36.0",
+        "direction": "81.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000857CD0B359955EC0DBC4C9FD0EE94240",
+        "marvlis_bayes_id": "13706843"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3336,
+          37.82077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "4",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:05",
+        "velocity": "0.0",
+        "direction": "59.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000614F3BFC35975EC007EBFF1CE6E74240",
+        "marvlis_bayes_id": "13706844"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36267,
+          37.81171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "5",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:05",
+        "velocity": "18.0",
+        "direction": "83.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000ACC5A70018955EC030F5F3A622E94240",
+        "marvlis_bayes_id": "13706845"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32959,
+          37.82137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "6",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:05",
+        "velocity": "60.0",
+        "direction": "69.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E610000046EBA86A82965EC0545227A089E84240",
+        "marvlis_bayes_id": "13706846"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35171,
+          37.8167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "7",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:05",
+        "velocity": "53.0",
+        "direction": "80.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000F2CD3637A6955EC08CB96B09F9E84240",
+        "marvlis_bayes_id": "13706847"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33827,
+          37.8201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "8",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:05",
+        "velocity": "57.0",
+        "direction": "69.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000B285200725965EC00D37E0F3C3E84240",
+        "marvlis_bayes_id": "13706848"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34601,
+          37.81848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "9",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:05",
+        "velocity": "45.0",
+        "direction": "69.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E61000002254A9D903975EC0F12900C633E84240",
+        "marvlis_bayes_id": "13706849"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35961,
+          37.81408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "10",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:05",
+        "velocity": "17.0",
+        "direction": "74.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E610000026361FD786945EC03EB324404DE94240",
+        "marvlis_bayes_id": "13706850"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32073,
+          37.82267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "11",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:05",
+        "velocity": "0.0",
+        "direction": "14.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000A6272CF180945EC0056EDDCD53E94240",
+        "marvlis_bayes_id": "13706851"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32037,
+          37.82287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "12",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:05",
+        "velocity": "5.0",
+        "direction": "22.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E61000005709168733975EC01D774A07EBE74240",
+        "marvlis_bayes_id": "13706852"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36252,
+          37.81186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "13",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:05",
+        "velocity": "5.0",
+        "direction": "22.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E61000005709168733975EC01D774A07EBE74240",
+        "marvlis_bayes_id": "13706853"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36252,
+          37.81186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "14",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:05",
+        "velocity": "23.0",
+        "direction": "86.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E61000001E166A4DF3945EC04CA60A4625E94240",
+        "marvlis_bayes_id": "13706854"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32735,
+          37.82145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "15",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:05",
+        "velocity": "36.0",
+        "direction": "74.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000A27A6B60AB945EC04CE0D6DD3CE94240",
+        "marvlis_bayes_id": "13706855"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32296,
+          37.82217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "16",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:05",
+        "velocity": "51.0",
+        "direction": "80.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E610000059A31EA2D1955EC08D9C853DEDE84240",
+        "marvlis_bayes_id": "13706856"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34092,
+          37.81974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "17",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:05",
+        "velocity": "16.0",
+        "direction": "79.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000666B7D91D0945EC03737A6272CE94240",
+        "marvlis_bayes_id": "13706857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32523,
+          37.82166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "18",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:05",
+        "velocity": "53.0",
+        "direction": "71.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000C79DD2C1FA955EC0E275FD82DDE84240",
+        "marvlis_bayes_id": "13706858"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34343,
+          37.81926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "19",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:05",
+        "velocity": "60.0",
+        "direction": "69.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E61000009430D3F6AF965EC08D5DA27A6BE84240",
+        "marvlis_bayes_id": "13706859"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35449,
+          37.81578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "20",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:05",
+        "velocity": "13.0",
+        "direction": "59.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000ECA353573E975EC0DDD26A48DCE74240",
+        "marvlis_bayes_id": "13706860"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36318,
+          37.81141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "21",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:05",
+        "velocity": "57.0",
+        "direction": "68.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000AD342905DD965EC0EA3E00A94DE84240",
+        "marvlis_bayes_id": "13706861"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35724,
+          37.81487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "22",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:05",
+        "velocity": "24.0",
+        "direction": "80.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E610000073BA2C2636955EC0B70BCD751AE94240",
+        "marvlis_bayes_id": "13706862"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33143,
+          37.82112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "23",
+        "vehicleid": "E48",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:00:06",
+        "velocity": "33.0",
+        "direction": "77.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000DE3AFF76D9955EC02786E464E2E84240",
+        "marvlis_bayes_id": "13706863"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.341398,
+          37.819409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "24",
+        "vehicleid": "RC1",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:00:08",
+        "velocity": "16.0",
+        "direction": "59.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E61000000F971C774A975EC064E94317D4E74240",
+        "marvlis_bayes_id": "13706864"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36392,
+          37.81116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "25",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:17",
+        "velocity": "0.0",
+        "direction": "59.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000614F3BFC35975EC007EBFF1CE6E74240",
+        "marvlis_bayes_id": "13706865"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36267,
+          37.81171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "26",
+        "vehicleid": "E48",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:00:18",
+        "velocity": "25.0",
+        "direction": "64.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E61000007FDB1324B6955EC08DD0CFD4EBE84240",
+        "marvlis_bayes_id": "13706866"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339242,
+          37.819697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "27",
+        "vehicleid": "87",
+        "status": "TRANSPRT",
+        "rptdatetime": "2012-09-07 00:00:18",
+        "velocity": "10.0",
+        "direction": "63.0",
+        "call_id": "122500372.0",
+        "geom": "0101000020E61000001E166A4DF39A5EC0EFE192E34EE54240",
+        "marvlis_bayes_id": "13706867"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4211,
+          37.79147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "28",
+        "vehicleid": "77",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:00:18",
+        "velocity": "24.0",
+        "direction": "43.0",
+        "call_id": "122500375.0",
+        "geom": "0101000020E6100000C72E51BD359E5EC01FBAA0BE65E24240",
+        "marvlis_bayes_id": "13706868"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47203,
+          37.76873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "29",
+        "vehicleid": "93",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:19",
+        "velocity": "22.0",
+        "direction": "78.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000C11C3D7E6F955EC0DBC4C9FD0EE94240",
+        "marvlis_bayes_id": "13706869"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33493,
+          37.82077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "30",
+        "vehicleid": "57",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:24",
+        "velocity": "4.0",
+        "direction": "98.0",
+        "call_id": "122500366.0",
+        "geom": "0101000020E61000003D0FEECEDA995EC08DEE2076A6E04240",
+        "marvlis_bayes_id": "13706870"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40398,
+          37.75508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "31",
+        "vehicleid": "E48",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:00:33",
+        "velocity": "27.0",
+        "direction": "73.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000A226FA7C94955EC0CC4065FCFBE84240",
+        "marvlis_bayes_id": "13706871"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337188,
+          37.82019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "32",
+        "vehicleid": "77",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:00:33",
+        "velocity": "19.0",
+        "direction": "92.0",
+        "call_id": "122500375.0",
+        "geom": "0101000020E6100000F5F3A622159E5EC03C889D2974E24240",
+        "marvlis_bayes_id": "13706872"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47004,
+          37.76917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "33",
+        "vehicleid": "T01",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:00:38",
+        "velocity": "0.0",
+        "direction": "0.0",
+        "call_id": "122500376.0",
+        "geom": "0101000020E610000094DC611399995EC00DA661F888E44240",
+        "marvlis_bayes_id": "13706873"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.399968,
+          37.78543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "34",
+        "vehicleid": "RC1",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:00:38",
+        "velocity": "9.0",
+        "direction": "46.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000A1D634EF38975EC04772F90FE9E74240",
+        "marvlis_bayes_id": "13706874"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36285,
+          37.8118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "35",
+        "vehicleid": "93",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:39",
+        "velocity": "32.0",
+        "direction": "76.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E61000000F971C774A955EC04C89247A19E94240",
+        "marvlis_bayes_id": "13706875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33267,
+          37.82109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "36",
+        "vehicleid": "87",
+        "status": "TRANSPRT",
+        "rptdatetime": "2012-09-07 00:00:48",
+        "velocity": "17.0",
+        "direction": "60.0",
+        "call_id": "122500372.0",
+        "geom": "0101000020E610000089EFC4AC179B5EC0A1F31ABB44E54240",
+        "marvlis_bayes_id": "13706876"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42332,
+          37.79116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "37",
+        "vehicleid": "E48",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:00:53",
+        "velocity": "28.0",
+        "direction": "70.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E610000096ED43DE72955EC047E350BF0BE94240",
+        "marvlis_bayes_id": "13706877"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335136,
+          37.820671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "38",
+        "vehicleid": "93",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:00:54",
+        "velocity": "30.0",
+        "direction": "75.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E610000025CCB4FD2B955EC0E223624A24E94240",
+        "marvlis_bayes_id": "13706878"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33081,
+          37.82142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "39",
+        "vehicleid": "77",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:00:58",
+        "velocity": "24.0",
+        "direction": "48.0",
+        "call_id": "122500375.0",
+        "geom": "0101000020E6100000841266DAFE9D5EC0F44F70B1A2E24240",
+        "marvlis_bayes_id": "13706879"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46868,
+          37.77059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "40",
+        "vehicleid": "E48",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:01:07",
+        "velocity": "33.0",
+        "direction": "84.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E61000005F07CE1951955EC06D72F8A413E94240",
+        "marvlis_bayes_id": "13706880"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333075,
+          37.820912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "41",
+        "vehicleid": "93",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:01:09",
+        "velocity": "30.0",
+        "direction": "88.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E610000034BF9A0304955EC0850838842AE94240",
+        "marvlis_bayes_id": "13706881"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32837,
+          37.82161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "42",
+        "vehicleid": "77",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:01:13",
+        "velocity": "20.0",
+        "direction": "50.0",
+        "call_id": "122500375.0",
+        "geom": "0101000020E6100000F67F0EF3E59D5EC0D0D03FC1C5E24240",
+        "marvlis_bayes_id": "13706882"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46716,
+          37.77166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "43",
+        "vehicleid": "RC2",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:01:13",
+        "velocity": "16.0",
+        "direction": "77.0",
+        "call_id": "122500375.0",
+        "geom": "0101000020E6100000D95F764F1E9E5EC02C9FE57970E34240",
+        "marvlis_bayes_id": "13706883"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4706,
+          37.77687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "44",
+        "vehicleid": "87",
+        "status": "TRANSPRT",
+        "rptdatetime": "2012-09-07 00:01:18",
+        "velocity": "21.0",
+        "direction": "59.0",
+        "call_id": "122500372.0",
+        "geom": "0101000020E6100000E544BB0A299B5EC0B03DB32440E54240",
+        "marvlis_bayes_id": "13706884"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42438,
+          37.79102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "45",
+        "vehicleid": "E48",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:01:19",
+        "velocity": "34.0",
+        "direction": "79.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000D55E44DB31955EC0D7C0560916E94240",
+        "marvlis_bayes_id": "13706885"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.331168,
+          37.820985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "46",
+        "vehicleid": "55",
+        "status": "DISPATCH",
+        "rptdatetime": "2012-09-07 00:01:21",
+        "velocity": "0.0",
+        "direction": "93.0",
+        "call_id": "122510001.0",
+        "geom": "0101000020E6100000B83B6BB75D9E5EC0F27B9BFEECE34240",
+        "marvlis_bayes_id": "13706886"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47447,
+          37.78067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "47",
+        "vehicleid": "93",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:01:24",
+        "velocity": "19.0",
+        "direction": "73.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000D00A0C59DD945EC0F08AE07F2BE94240",
+        "marvlis_bayes_id": "13706887"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32601,
+          37.82164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "48",
+        "vehicleid": "RC2",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:01:28",
+        "velocity": "15.0",
+        "direction": "78.0",
+        "call_id": "122500375.0",
+        "geom": "0101000020E610000015C616821C9E5EC0107A36AB3EE34240",
+        "marvlis_bayes_id": "13706888"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47049,
+          37.77535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "49",
+        "vehicleid": "E48",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:01:29",
+        "velocity": "40.0",
+        "direction": "80.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000F05014E813955EC08EC9E2FE23E94240",
+        "marvlis_bayes_id": "13706889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32934,
+          37.821411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "50",
+        "vehicleid": "87",
+        "status": "TRANSPRT",
+        "rptdatetime": "2012-09-07 00:01:33",
+        "velocity": "30.0",
+        "direction": "60.0",
+        "call_id": "122500372.0",
+        "geom": "0101000020E6100000813E9127499B5EC07E00529B38E54240",
+        "marvlis_bayes_id": "13706890"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42634,
+          37.79079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "51",
+        "vehicleid": "55",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:01:37",
+        "velocity": "32.0",
+        "direction": "87.0",
+        "call_id": "122510001.0",
+        "geom": "0101000020E6100000035B25581C9E5EC080D4264EEEE34240",
+        "marvlis_bayes_id": "13706891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47048,
+          37.78071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "52",
+        "vehicleid": "55",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:01:37",
+        "velocity": "0.0",
+        "direction": "93.0",
+        "call_id": "122510001.0",
+        "geom": "0101000020E6100000B83B6BB75D9E5EC0F27B9BFEECE34240",
+        "marvlis_bayes_id": "13706892"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47447,
+          37.78067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "53",
+        "vehicleid": "55",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:01:37",
+        "velocity": "15.0",
+        "direction": "62.0",
+        "call_id": "122510001.0",
+        "geom": "0101000020E6100000CEC7B5A1629E5EC0F9A067B3EAE34240",
+        "marvlis_bayes_id": "13706893"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47477,
+          37.7806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "54",
+        "vehicleid": "55",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:01:37",
+        "velocity": "24.0",
+        "direction": "87.0",
+        "call_id": "122510001.0",
+        "geom": "0101000020E610000031CEDF84429E5EC08E1EBFB7E9E34240",
+        "marvlis_bayes_id": "13706894"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47281,
+          37.78057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "55",
+        "vehicleid": "55",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:01:37",
+        "velocity": "20.0",
+        "direction": "77.0",
+        "call_id": "122510001.0",
+        "geom": "0101000020E61000001288D7F50B9E5EC06BD44334BAE34240",
+        "marvlis_bayes_id": "13706895"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46948,
+          37.77912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "56",
+        "vehicleid": "E48",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:01:39",
+        "velocity": "31.0",
+        "direction": "87.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E610000041B8020AF5945EC0C3D66CE525E94240",
+        "marvlis_bayes_id": "13706896"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.327456,
+          37.821469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "57",
+        "vehicleid": "77",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:01:43",
+        "velocity": "12.0",
+        "direction": "61.0",
+        "call_id": "122500375.0",
+        "geom": "0101000020E610000024624A24D19D5EC097C5C4E6E3E24240",
+        "marvlis_bayes_id": "13706897"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46589,
+          37.77258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "58",
+        "vehicleid": "E14",
+        "status": "DISPATCH",
+        "rptdatetime": "2012-09-07 00:01:47",
+        "velocity": "13.0",
+        "direction": "87.0",
+        "call_id": "122510001.0",
+        "geom": "0101000020E6100000EEE87FB9169F5EC04B1FBAA0BEE34240",
+        "marvlis_bayes_id": "13706898"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.485762,
+          37.779255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "59",
+        "vehicleid": "93",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:01:49",
+        "velocity": "11.0",
+        "direction": "76.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E61000008907944DB9945EC0137EA99F37E94240",
+        "marvlis_bayes_id": "13706899"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32381,
+          37.82201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "60",
+        "vehicleid": "RC2",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:01:49",
+        "velocity": "26.0",
+        "direction": "87.0",
+        "call_id": "122500375.0",
+        "geom": "0101000020E61000003C66A032FE9D5EC00113B87537E34240",
+        "marvlis_bayes_id": "13706900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46864,
+          37.77513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "61",
+        "vehicleid": "87",
+        "status": "TRANSPRT",
+        "rptdatetime": "2012-09-07 00:01:53",
+        "velocity": "18.0",
+        "direction": "61.0",
+        "call_id": "122500372.0",
+        "geom": "0101000020E6100000CF66D5E76A9B5EC0BE6A65C22FE54240",
+        "marvlis_bayes_id": "13706901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4284,
+          37.79052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "62",
+        "vehicleid": "E48",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:01:53",
+        "velocity": "33.0",
+        "direction": "80.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E61000002FDCB930D2945EC0AD33BE2F2EE94240",
+        "marvlis_bayes_id": "13706902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.325329,
+          37.821722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "63",
+        "vehicleid": "77",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:02:13",
+        "velocity": "1.0",
+        "direction": "58.0",
+        "call_id": "122500375.0",
+        "geom": "0101000020E61000007233DC80CF9D5EC0C91F0C3CF7E24240",
+        "marvlis_bayes_id": "13706903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46579,
+          37.77317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "64",
+        "vehicleid": "RC2",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:02:13",
+        "velocity": "18.0",
+        "direction": "86.0",
+        "call_id": "122500375.0",
+        "geom": "0101000020E6100000FD87F4DBD79D5EC0179F02603CE34240",
+        "marvlis_bayes_id": "13706904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4663,
+          37.77528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "65",
+        "vehicleid": "FLOG",
+        "status": "IN-SERV",
+        "rptdatetime": "2012-09-07 00:02:15",
+        "velocity": "0.0",
+        "direction": "0.0",
+        "call_id": "",
+        "geom": "0101000020E6100000252026E1428F5EC018B5FB5580F14240",
+        "marvlis_bayes_id": "13706905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.238457,
+          37.886729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "66",
+        "vehicleid": "93",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:02:19",
+        "velocity": "13.0",
+        "direction": "73.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000C971A774B0945EC05305A3923AE94240",
+        "marvlis_bayes_id": "13706906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32327,
+          37.8221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "67",
+        "vehicleid": "FLOG",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:02:19",
+        "velocity": "0.0",
+        "direction": "0.0",
+        "call_id": "122510002.0",
+        "geom": "0101000020E6100000252026E1428F5EC018B5FB5580F14240",
+        "marvlis_bayes_id": "13706907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.238457,
+          37.886729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "68",
+        "vehicleid": "E48",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:02:23",
+        "velocity": "7.0",
+        "direction": "77.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000E8F527F1B9945EC0261DE56036E94240",
+        "marvlis_bayes_id": "13706908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.323849,
+          37.821972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "69",
+        "vehicleid": "87",
+        "status": "TRANSPRT",
+        "rptdatetime": "2012-09-07 00:02:23",
+        "velocity": "16.0",
+        "direction": "62.0",
+        "call_id": "122500372.0",
+        "geom": "0101000020E61000008C153598869B5EC0D3D9C9E028E54240",
+        "marvlis_bayes_id": "13706909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43009,
+          37.79031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "70",
+        "vehicleid": "55",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:02:24",
+        "velocity": "15.0",
+        "direction": "62.0",
+        "call_id": "122510001.0",
+        "geom": "0101000020E6100000CEC7B5A1629E5EC0F9A067B3EAE34240",
+        "marvlis_bayes_id": "13706910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47477,
+          37.7806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "71",
+        "vehicleid": "77",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:02:38",
+        "velocity": "2.0",
+        "direction": "82.0",
+        "call_id": "122500375.0",
+        "geom": "0101000020E6100000BDA94885B19D5EC034BF9A0304E34240",
+        "marvlis_bayes_id": "13706911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46396,
+          37.77356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "72",
+        "vehicleid": "RC2",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:02:43",
+        "velocity": "17.0",
+        "direction": "88.0",
+        "call_id": "122500375.0",
+        "geom": "0101000020E61000009DF4BEF1B59D5EC05726FC523FE34240",
+        "marvlis_bayes_id": "13706912"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46423,
+          37.77537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "73",
+        "vehicleid": "93",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:02:49",
+        "velocity": "17.0",
+        "direction": "75.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000587380608E945EC0FE2B2B4D4AE94240",
+        "marvlis_bayes_id": "13706913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32119,
+          37.82258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "74",
+        "vehicleid": "FLOG",
+        "status": "TRANSPRT",
+        "rptdatetime": "2012-09-07 00:02:50",
+        "velocity": "0.0",
+        "direction": "0.0",
+        "call_id": "122510002.0",
+        "geom": "0101000020E6100000252026E1428F5EC018B5FB5580F14240",
+        "marvlis_bayes_id": "13706914"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.238457,
+          37.886729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "75",
+        "vehicleid": "FLOG",
+        "status": "TRANSPRT",
+        "rptdatetime": "2012-09-07 00:02:50",
+        "velocity": "0.0",
+        "direction": "0.0",
+        "call_id": "122510002.0",
+        "geom": "0101000020E6100000252026E1428F5EC018B5FB5580F14240",
+        "marvlis_bayes_id": "13706915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.238457,
+          37.886729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "76",
+        "vehicleid": "E48",
+        "status": "ON RADIO",
+        "rptdatetime": "2012-09-07 00:02:51",
+        "velocity": "9.0",
+        "direction": "73.0",
+        "call_id": "",
+        "geom": "0101000020E61000003BE2900DA4945EC03ECA880B40E94240",
+        "marvlis_bayes_id": "13706916"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.322513,
+          37.822267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "77",
+        "vehicleid": "E48",
+        "status": "ON RADIO",
+        "rptdatetime": "2012-09-07 00:02:51",
+        "velocity": "7.0",
+        "direction": "77.0",
+        "call_id": "",
+        "geom": "0101000020E6100000E8F527F1B9945EC0261DE56036E94240",
+        "marvlis_bayes_id": "13706917"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.323849,
+          37.821972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "78",
+        "vehicleid": "E48",
+        "status": "ON RADIO",
+        "rptdatetime": "2012-09-07 00:02:51",
+        "velocity": "0.0",
+        "direction": "9.0",
+        "call_id": "",
+        "geom": "0101000020E6100000C30C8D2782945EC0884CF91054E94240",
+        "marvlis_bayes_id": "13706918"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320444,
+          37.822878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "79",
+        "vehicleid": "E48",
+        "status": "ON RADIO",
+        "rptdatetime": "2012-09-07 00:02:51",
+        "velocity": "13.0",
+        "direction": "71.0",
+        "call_id": "",
+        "geom": "0101000020E6100000AF05BD3786945EC0FCC3961E4DE94240",
+        "marvlis_bayes_id": "13706919"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320692,
+          37.822666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "80",
+        "vehicleid": "E48",
+        "status": "ON RADIO",
+        "rptdatetime": "2012-09-07 00:02:52",
+        "velocity": "9.0",
+        "direction": "73.0",
+        "call_id": "",
+        "geom": "0101000020E61000003BE2900DA4945EC03ECA880B40E94240",
+        "marvlis_bayes_id": "13706920"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.322513,
+          37.822267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "81",
+        "vehicleid": "55",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:02:54",
+        "velocity": "24.0",
+        "direction": "87.0",
+        "call_id": "122510001.0",
+        "geom": "0101000020E610000031CEDF84429E5EC08E1EBFB7E9E34240",
+        "marvlis_bayes_id": "13706921"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47281,
+          37.78057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "82",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:02:54",
+        "velocity": "5.0",
+        "direction": "22.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E61000005709168733975EC01D774A07EBE74240",
+        "marvlis_bayes_id": "13706922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36252,
+          37.81186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "83",
+        "vehicleid": "87",
+        "status": "TRANSPRT",
+        "rptdatetime": "2012-09-07 00:02:58",
+        "velocity": "0.0",
+        "direction": "54.0",
+        "call_id": "122500372.0",
+        "geom": "0101000020E6100000D6FF39CC979B5EC053E8BCC62EE54240",
+        "marvlis_bayes_id": "13706923"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43114,
+          37.79049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "84",
+        "vehicleid": "77",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:03:03",
+        "velocity": "0.0",
+        "direction": "94.0",
+        "call_id": "122500375.0",
+        "geom": "0101000020E61000007AE40F069E9D5EC0ACA8C1340CE34240",
+        "marvlis_bayes_id": "13706924"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46277,
+          37.77381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "85",
+        "vehicleid": "77",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:03:03",
+        "velocity": "0.0",
+        "direction": "68.0",
+        "call_id": "122500375.0",
+        "geom": "0101000020E6100000689604A8A99D5EC0D7A3703D0AE34240",
+        "marvlis_bayes_id": "13706925"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46348,
+          37.77375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "86",
+        "vehicleid": "87",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:03:03",
+        "velocity": "0.0",
+        "direction": "54.0",
+        "call_id": "122500372.0",
+        "geom": "0101000020E6100000D6FF39CC979B5EC053E8BCC62EE54240",
+        "marvlis_bayes_id": "13706926"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43114,
+          37.79049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "87",
+        "vehicleid": "77",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:03:03",
+        "velocity": "2.0",
+        "direction": "82.0",
+        "call_id": "122500375.0",
+        "geom": "0101000020E6100000BDA94885B19D5EC034BF9A0304E34240",
+        "marvlis_bayes_id": "13706927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46396,
+          37.77356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "88",
+        "vehicleid": "E14",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:03:08",
+        "velocity": "25.0",
+        "direction": "87.0",
+        "call_id": "122510001.0",
+        "geom": "0101000020E610000014967840D99E5EC0A3772AE09EE34240",
+        "marvlis_bayes_id": "13706928"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.48201,
+          37.778286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "89",
+        "vehicleid": "E14",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:03:08",
+        "velocity": "25.0",
+        "direction": "58.0",
+        "call_id": "122510001.0",
+        "geom": "0101000020E61000004E4354E1CF9E5EC0D7F84CF6CFE34240",
+        "marvlis_bayes_id": "13706929"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.481438,
+          37.779784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "90",
+        "vehicleid": "E14",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:03:08",
+        "velocity": "28.0",
+        "direction": "86.0",
+        "call_id": "122510001.0",
+        "geom": "0101000020E61000001689096AF89E5EC0D4635B069CE34240",
+        "marvlis_bayes_id": "13706930"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.483912,
+          37.778199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "91",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:03:08",
+        "velocity": "41.0",
+        "direction": "39.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E610000002D9EBDD1F975EC0397F130A11E84240",
+        "marvlis_bayes_id": "13706931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36132,
+          37.81302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "92",
+        "vehicleid": "E14",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:03:08",
+        "velocity": "13.0",
+        "direction": "87.0",
+        "call_id": "122510001.0",
+        "geom": "0101000020E6100000EEE87FB9169F5EC04B1FBAA0BEE34240",
+        "marvlis_bayes_id": "13706932"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.485762,
+          37.779255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "93",
+        "vehicleid": "E14",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:03:08",
+        "velocity": "19.0",
+        "direction": "79.0",
+        "call_id": "122510001.0",
+        "geom": "0101000020E610000072FBE593159F5EC04BB1A371A8E34240",
+        "marvlis_bayes_id": "13706933"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.485692,
+          37.778578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "94",
+        "vehicleid": "77",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:03:09",
+        "velocity": "0.0",
+        "direction": "94.0",
+        "call_id": "122500375.0",
+        "geom": "0101000020E61000007AE40F069E9D5EC0ACA8C1340CE34240",
+        "marvlis_bayes_id": "13706934"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46277,
+          37.77381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "95",
+        "vehicleid": "55",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:03:09",
+        "velocity": "32.0",
+        "direction": "87.0",
+        "call_id": "122510001.0",
+        "geom": "0101000020E6100000035B25581C9E5EC080D4264EEEE34240",
+        "marvlis_bayes_id": "13706935"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47048,
+          37.78071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "96",
+        "vehicleid": "RC2",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:03:13",
+        "velocity": "11.0",
+        "direction": "76.0",
+        "call_id": "122500375.0",
+        "geom": "0101000020E6100000560E2DB29D9D5EC0F3C81F0C3CE34240",
+        "marvlis_bayes_id": "13706936"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46275,
+          37.77527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "97",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:03:18",
+        "velocity": "45.0",
+        "direction": "69.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E61000002254A9D903975EC0F12900C633E84240",
+        "marvlis_bayes_id": "13706937"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35961,
+          37.81408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "98",
+        "vehicleid": "E48",
+        "status": "ON RADIO",
+        "rptdatetime": "2012-09-07 00:03:19",
+        "velocity": "13.0",
+        "direction": "71.0",
+        "call_id": "",
+        "geom": "0101000020E6100000AF05BD3786945EC0FCC3961E4DE94240",
+        "marvlis_bayes_id": "13706938"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320692,
+          37.822666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "99",
+        "vehicleid": "B03",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:03:20",
+        "velocity": "0.0",
+        "direction": "60.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E610000085251E5036975EC04030478FDFE74240",
+        "marvlis_bayes_id": "13706939"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36269,
+          37.81151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "100",
+        "vehicleid": "93",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:03:24",
+        "velocity": "0.0",
+        "direction": "66.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E610000071E6577380945EC0533F6F2A52E94240",
+        "marvlis_bayes_id": "13706940"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32034,
+          37.82282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "101",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:03:28",
+        "velocity": "57.0",
+        "direction": "68.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000AD342905DD965EC0EA3E00A94DE84240",
+        "marvlis_bayes_id": "13706941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35724,
+          37.81487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "102",
+        "vehicleid": "55",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:03:34",
+        "velocity": "20.0",
+        "direction": "77.0",
+        "call_id": "122510001.0",
+        "geom": "0101000020E61000001288D7F50B9E5EC06BD44334BAE34240",
+        "marvlis_bayes_id": "13706942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46948,
+          37.77912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "103",
+        "vehicleid": "55",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:03:35",
+        "velocity": "0.0",
+        "direction": "86.0",
+        "call_id": "122510001.0",
+        "geom": "0101000020E6100000999EB0C4039E5EC0AB3E575BB1E34240",
+        "marvlis_bayes_id": "13706943"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46898,
+          37.77885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "104",
+        "vehicleid": "55",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:03:35",
+        "velocity": "20.0",
+        "direction": "77.0",
+        "call_id": "122510001.0",
+        "geom": "0101000020E61000001288D7F50B9E5EC06BD44334BAE34240",
+        "marvlis_bayes_id": "13706944"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46948,
+          37.77912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "105",
+        "vehicleid": "RC1",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:03:38",
+        "velocity": "4.0",
+        "direction": "73.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E610000085251E5036975EC0642310AFEBE74240",
+        "marvlis_bayes_id": "13706945"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36269,
+          37.81188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "106",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:03:38",
+        "velocity": "60.0",
+        "direction": "69.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E61000009430D3F6AF965EC08D5DA27A6BE84240",
+        "marvlis_bayes_id": "13706946"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35449,
+          37.81578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "107",
+        "vehicleid": "T01",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:03:39",
+        "velocity": "0.0",
+        "direction": "0.0",
+        "call_id": "122500376.0",
+        "geom": "0101000020E610000054707841449A5EC0751F80D426E44240",
+        "marvlis_bayes_id": "13706947"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.410416,
+          37.782435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "108",
+        "vehicleid": "77",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:03:43",
+        "velocity": "0.0",
+        "direction": "68.0",
+        "call_id": "122500375.0",
+        "geom": "0101000020E6100000689604A8A99D5EC0D7A3703D0AE34240",
+        "marvlis_bayes_id": "13706948"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46348,
+          37.77375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "109",
+        "vehicleid": "RC2",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:03:43",
+        "velocity": "7.0",
+        "direction": "85.0",
+        "call_id": "122500375.0",
+        "geom": "0101000020E61000000F62670A9D9D5EC0EC2FBB270FE34240",
+        "marvlis_bayes_id": "13706949"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46271,
+          37.7739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "110",
+        "vehicleid": "E01",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:03:44",
+        "velocity": "0.0",
+        "direction": "0.0",
+        "call_id": "122500376.0",
+        "geom": "0101000020E610000054707841449A5EC0751F80D426E44240",
+        "marvlis_bayes_id": "13706950"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.410416,
+          37.782435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "111",
+        "vehicleid": "E39",
+        "status": "ON RADIO",
+        "rptdatetime": "2012-09-07 00:03:44",
+        "velocity": "0.0",
+        "direction": "0.0",
+        "call_id": "",
+        "geom": "0101000020E6100000284701A2609D5EC0EB19C231CBDE4240",
+        "marvlis_bayes_id": "13706951"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.459023,
+          37.740576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "112",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:03:48",
+        "velocity": "60.0",
+        "direction": "69.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E610000046EBA86A82965EC0545227A089E84240",
+        "marvlis_bayes_id": "13706952"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35171,
+          37.8167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "113",
+        "vehicleid": "B03",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:03:48",
+        "velocity": "42.0",
+        "direction": "48.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E610000009FEB7921D975EC06B9F8EC70CE84240",
+        "marvlis_bayes_id": "13706953"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36118,
+          37.81289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "114",
+        "vehicleid": "E48",
+        "status": "ON RADIO",
+        "rptdatetime": "2012-09-07 00:03:49",
+        "velocity": "0.0",
+        "direction": "9.0",
+        "call_id": "",
+        "geom": "0101000020E6100000C30C8D2782945EC0884CF91054E94240",
+        "marvlis_bayes_id": "13706954"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320444,
+          37.822878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "115",
+        "vehicleid": "RC2",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:03:54",
+        "velocity": "0.0",
+        "direction": "62.0",
+        "call_id": "122500375.0",
+        "geom": "0101000020E6100000884B8E3BA59D5EC01E5036E50AE34240",
+        "marvlis_bayes_id": "13706955"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46321,
+          37.77377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "116",
+        "vehicleid": "RC2",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:03:54",
+        "velocity": "7.0",
+        "direction": "85.0",
+        "call_id": "122500375.0",
+        "geom": "0101000020E61000000F62670A9D9D5EC0EC2FBB270FE34240",
+        "marvlis_bayes_id": "13706956"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46271,
+          37.7739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "117",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:03:58",
+        "velocity": "62.0",
+        "direction": "69.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E610000023A12DE752965EC08DEE2076A6E84240",
+        "marvlis_bayes_id": "13706957"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34881,
+          37.81758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "118",
+        "vehicleid": "B03",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:03:58",
+        "velocity": "48.0",
+        "direction": "69.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000BBD573D2FB965EC0878A71FE26E84240",
+        "marvlis_bayes_id": "13706958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35912,
+          37.81369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "119",
+        "vehicleid": "RC1",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:03:58",
+        "velocity": "39.0",
+        "direction": "46.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000102384471B975EC0C0CFB87020E84240",
+        "marvlis_bayes_id": "13706959"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36104,
+          37.81349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "120",
+        "vehicleid": "82",
+        "status": "DISPATCH",
+        "rptdatetime": "2012-09-07 00:04:00",
+        "velocity": "0.0",
+        "direction": "15.0",
+        "call_id": "122510003.0",
+        "geom": "0101000020E6100000B3EA73B5159B5EC00DFD135CACE44240",
+        "marvlis_bayes_id": "13706960"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4232,
+          37.78651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "121",
+        "vehicleid": "E03",
+        "status": "DISPATCH",
+        "rptdatetime": "2012-09-07 00:04:00",
+        "velocity": "9.0",
+        "direction": "84.0",
+        "call_id": "122510003.0",
+        "geom": "0101000020E610000062670A9DD79A5EC0CEFA9463B2E44240",
+        "marvlis_bayes_id": "13706961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41941,
+          37.786694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "122",
+        "vehicleid": "55",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:04:04",
+        "velocity": "0.0",
+        "direction": "86.0",
+        "call_id": "122510001.0",
+        "geom": "0101000020E6100000999EB0C4039E5EC0AB3E575BB1E34240",
+        "marvlis_bayes_id": "13706962"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46898,
+          37.77885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "123",
+        "vehicleid": "E31",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:04:07",
+        "velocity": "0.0",
+        "direction": "0.0",
+        "call_id": "122500375.0",
+        "geom": "0101000020E61000003868AF3E1E9E5EC0A774B0FECFE34240",
+        "marvlis_bayes_id": "13706963"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.470596,
+          37.779785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "124",
+        "vehicleid": "B03",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:04:08",
+        "velocity": "52.0",
+        "direction": "72.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000B0389CF9D5965EC02AA913D044E84240",
+        "marvlis_bayes_id": "13706964"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35681,
+          37.8146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "125",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:04:08",
+        "velocity": "57.0",
+        "direction": "69.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000B285200725965EC00D37E0F3C3E84240",
+        "marvlis_bayes_id": "13706965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34601,
+          37.81848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "126",
+        "vehicleid": "RC1",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:04:08",
+        "velocity": "47.0",
+        "direction": "67.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E610000014ED2AA4FC965EC0DCBA9BA73AE84240",
+        "marvlis_bayes_id": "13706966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35917,
+          37.81429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "127",
+        "vehicleid": "E29",
+        "status": "IN-SERV",
+        "rptdatetime": "2012-09-07 00:04:09",
+        "velocity": "0.0",
+        "direction": "45.0",
+        "call_id": "",
+        "geom": "0101000020E6100000A646E867EA995EC0DEFFC70913E24240",
+        "marvlis_bayes_id": "13706967"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.404932,
+          37.766206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "128",
+        "vehicleid": "B02",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:04:11",
+        "velocity": "3.0",
+        "direction": "58.0",
+        "call_id": "122500376.0",
+        "geom": "0101000020E61000001E166A4DF39A5EC01EC4CE143AE34240",
+        "marvlis_bayes_id": "13706968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4211,
+          37.77521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "129",
+        "vehicleid": "RC2",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:04:13",
+        "velocity": "0.0",
+        "direction": "62.0",
+        "call_id": "122500375.0",
+        "geom": "0101000020E6100000884B8E3BA59D5EC01E5036E50AE34240",
+        "marvlis_bayes_id": "13706969"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46321,
+          37.77377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "130",
+        "vehicleid": "E14",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:04:14",
+        "velocity": "19.0",
+        "direction": "79.0",
+        "call_id": "122510001.0",
+        "geom": "0101000020E610000072FBE593159F5EC04BB1A371A8E34240",
+        "marvlis_bayes_id": "13706970"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.485692,
+          37.778578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "131",
+        "vehicleid": "RC1",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:04:18",
+        "velocity": "49.0",
+        "direction": "67.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E61000008D62B9A5D5965EC06A4DF38E53E84240",
+        "marvlis_bayes_id": "13706971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35679,
+          37.81505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "132",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:04:18",
+        "velocity": "53.0",
+        "direction": "71.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000C79DD2C1FA955EC0E275FD82DDE84240",
+        "marvlis_bayes_id": "13706972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34343,
+          37.81926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "133",
+        "vehicleid": "B03",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:04:18",
+        "velocity": "61.0",
+        "direction": "71.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000745E6397A8965EC03F6F2A5261E84240",
+        "marvlis_bayes_id": "13706973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35404,
+          37.81547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "134",
+        "vehicleid": "B03",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:04:28",
+        "velocity": "62.0",
+        "direction": "67.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E61000005114E81379965EC05C77F35487E84240",
+        "marvlis_bayes_id": "13706974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35114,
+          37.81663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "135",
+        "vehicleid": "RC1",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:04:28",
+        "velocity": "50.0",
+        "direction": "66.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E61000005FEFFE78AF965EC03F8C101E6DE84240",
+        "marvlis_bayes_id": "13706975"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35446,
+          37.81583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "136",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:04:28",
+        "velocity": "51.0",
+        "direction": "80.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E610000059A31EA2D1955EC08D9C853DEDE84240",
+        "marvlis_bayes_id": "13706976"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34092,
+          37.81974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "137",
+        "vehicleid": "E14",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:04:36",
+        "velocity": "28.0",
+        "direction": "86.0",
+        "call_id": "122510001.0",
+        "geom": "0101000020E61000001689096AF89E5EC0D4635B069CE34240",
+        "marvlis_bayes_id": "13706977"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.483912,
+          37.778199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "138",
+        "vehicleid": "B03",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:04:38",
+        "velocity": "62.0",
+        "direction": "68.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E61000001C5F7B6649965EC0A99F3715A9E84240",
+        "marvlis_bayes_id": "13706978"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34823,
+          37.81766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "139",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:04:38",
+        "velocity": "53.0",
+        "direction": "80.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000F2CD3637A6955EC08CB96B09F9E84240",
+        "marvlis_bayes_id": "13706979"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33827,
+          37.8201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "140",
+        "vehicleid": "RC1",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:04:38",
+        "velocity": "52.0",
+        "direction": "66.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E61000005C77F35487965EC0AA4885B185E84240",
+        "marvlis_bayes_id": "13706980"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35201,
+          37.81658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "141",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:04:48",
+        "velocity": "50.0",
+        "direction": "81.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000F67AF7C77B955EC08CD651D504E94240",
+        "marvlis_bayes_id": "13706981"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33568,
+          37.82046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "142",
+        "vehicleid": "RC1",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:04:48",
+        "velocity": "51.0",
+        "direction": "67.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000D5EC815660965EC00DE02D90A0E84240",
+        "marvlis_bayes_id": "13706982"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34963,
+          37.8174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "143",
+        "vehicleid": "B03",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:04:48",
+        "velocity": "62.0",
+        "direction": "68.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E61000000A80F10C1A965EC0B84082E2C7E84240",
+        "marvlis_bayes_id": "13706983"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34534,
+          37.8186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "144",
+        "vehicleid": "E14",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:04:50",
+        "velocity": "25.0",
+        "direction": "87.0",
+        "call_id": "122510001.0",
+        "geom": "0101000020E610000014967840D99E5EC0A3772AE09EE34240",
+        "marvlis_bayes_id": "13706984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.48201,
+          37.778286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "145",
+        "vehicleid": "E03",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:04:57",
+        "velocity": "1.0",
+        "direction": "73.0",
+        "call_id": "122510003.0",
+        "geom": "0101000020E61000007592AD2EA79A5EC0FCC56CC9AAE44240",
+        "marvlis_bayes_id": "13706985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416454,
+          37.786462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "146",
+        "vehicleid": "E03",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:04:57",
+        "velocity": "0.0",
+        "direction": "91.0",
+        "call_id": "122510003.0",
+        "geom": "0101000020E6100000EFE3688EAC9A5EC04E266E15C4E44240",
+        "marvlis_bayes_id": "13706986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416782,
+          37.787234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "147",
+        "vehicleid": "E03",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:04:57",
+        "velocity": "6.0",
+        "direction": "72.0",
+        "call_id": "122510003.0",
+        "geom": "0101000020E6100000EB8EC536A99A5EC03BFC3559A3E44240",
+        "marvlis_bayes_id": "13706987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416578,
+          37.786235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "148",
+        "vehicleid": "E03",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:04:57",
+        "velocity": "9.0",
+        "direction": "84.0",
+        "call_id": "122510003.0",
+        "geom": "0101000020E610000062670A9DD79A5EC0CEFA9463B2E44240",
+        "marvlis_bayes_id": "13706988"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41941,
+          37.786694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "149",
+        "vehicleid": "E03",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:04:57",
+        "velocity": "0.0",
+        "direction": "0.0",
+        "call_id": "122510003.0",
+        "geom": "0101000020E610000092EBA694D79A5EC0C39D0B23BDE44240",
+        "marvlis_bayes_id": "13706989"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419408,
+          37.787022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "150",
+        "vehicleid": "E03",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:04:57",
+        "velocity": "10.0",
+        "direction": "85.0",
+        "call_id": "122510003.0",
+        "geom": "0101000020E610000019CBF44BC49A5EC002F1BA7EC1E44240",
+        "marvlis_bayes_id": "13706990"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418231,
+          37.787155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "151",
+        "vehicleid": "RC1",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:04:58",
+        "velocity": "50.0",
+        "direction": "67.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000F54A598638965EC0E21E4B1FBAE84240",
+        "marvlis_bayes_id": "13706991"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3472,
+          37.81818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "152",
+        "vehicleid": "B03",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:04:58",
+        "velocity": "60.0",
+        "direction": "80.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000B2F4A10BEA955EC0D42B6519E2E84240",
+        "marvlis_bayes_id": "13706992"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34241,
+          37.8194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "153",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:04:59",
+        "velocity": "36.0",
+        "direction": "81.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000857CD0B359955EC0DBC4C9FD0EE94240",
+        "marvlis_bayes_id": "13706993"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3336,
+          37.82077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "154",
+        "vehicleid": "82",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:01",
+        "velocity": "5.0",
+        "direction": "78.0",
+        "call_id": "122510003.0",
+        "geom": "0101000020E610000057B26323109B5EC00DFD135CACE44240",
+        "marvlis_bayes_id": "13706994"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42286,
+          37.78651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "155",
+        "vehicleid": "82",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:01",
+        "velocity": "0.0",
+        "direction": "72.0",
+        "call_id": "122510003.0",
+        "geom": "0101000020E61000004DF8A57EDE9A5EC06AFB57569AE44240",
+        "marvlis_bayes_id": "13706995"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41983,
+          37.78596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "156",
+        "vehicleid": "82",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:01",
+        "velocity": "4.0",
+        "direction": "81.0",
+        "call_id": "122510003.0",
+        "geom": "0101000020E6100000E5ED08A7059B5EC05B5F24B4E5E44240",
+        "marvlis_bayes_id": "13706996"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42222,
+          37.78826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "157",
+        "vehicleid": "82",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:01",
+        "velocity": "16.0",
+        "direction": "52.0",
+        "call_id": "122510003.0",
+        "geom": "0101000020E6100000508D976E129B5EC0BF823463D1E44240",
+        "marvlis_bayes_id": "13706997"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.423,
+          37.78764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "158",
+        "vehicleid": "82",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:01",
+        "velocity": "5.0",
+        "direction": "71.0",
+        "call_id": "122510003.0",
+        "geom": "0101000020E61000006284F068E39A5EC0A2B437F8C2E44240",
+        "marvlis_bayes_id": "13706998"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42013,
+          37.7872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "159",
+        "vehicleid": "82",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:01",
+        "velocity": "1.0",
+        "direction": "83.0",
+        "call_id": "122510003.0",
+        "geom": "0101000020E61000004D158C4AEA9A5EC0F0F96184F0E44240",
+        "marvlis_bayes_id": "13706999"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42055,
+          37.78859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "160",
+        "vehicleid": "82",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:01",
+        "velocity": "4.0",
+        "direction": "70.0",
+        "call_id": "122510003.0",
+        "geom": "0101000020E6100000D72FD80DDB9A5EC014AE47E17AE44240",
+        "marvlis_bayes_id": "13707000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41962,
+          37.785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "161",
+        "vehicleid": "82",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:01",
+        "velocity": "19.0",
+        "direction": "81.0",
+        "call_id": "122510003.0",
+        "geom": "0101000020E61000006631B1F9B89A5EC0543541D47DE44240",
+        "marvlis_bayes_id": "13707001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41754,
+          37.78509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "162",
+        "vehicleid": "82",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:01",
+        "velocity": "0.0",
+        "direction": "15.0",
+        "call_id": "122510003.0",
+        "geom": "0101000020E6100000B3EA73B5159B5EC00DFD135CACE44240",
+        "marvlis_bayes_id": "13707002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4232,
+          37.78651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "163",
+        "vehicleid": "82",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:01",
+        "velocity": "5.0",
+        "direction": "71.0",
+        "call_id": "122510003.0",
+        "geom": "0101000020E61000005B5F24B4E59A5EC0541D7233DCE44240",
+        "marvlis_bayes_id": "13707003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42027,
+          37.78797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "164",
+        "vehicleid": "82",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:01",
+        "velocity": "6.0",
+        "direction": "85.0",
+        "call_id": "122510003.0",
+        "geom": "0101000020E610000011018750A59A5EC0F819170E84E44240",
+        "marvlis_bayes_id": "13707004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41634,
+          37.78528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "165",
+        "vehicleid": "82",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:01",
+        "velocity": "7.0",
+        "direction": "77.0",
+        "call_id": "122510003.0",
+        "geom": "0101000020E6100000E6965643E29A5EC09B728577B9E44240",
+        "marvlis_bayes_id": "13707005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42006,
+          37.78691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "166",
+        "vehicleid": "B03",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:05:08",
+        "velocity": "59.0",
+        "direction": "79.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E610000036936FB6B9955EC037A6272CF1E84240",
+        "marvlis_bayes_id": "13707006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33946,
+          37.81986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "167",
+        "vehicleid": "RC1",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:08",
+        "velocity": "51.0",
+        "direction": "67.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E610000015A930B610965EC09487855AD3E84240",
+        "marvlis_bayes_id": "13707007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34477,
+          37.81895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "168",
+        "vehicleid": "E29",
+        "status": "IN-SERV",
+        "rptdatetime": "2012-09-07 00:05:12",
+        "velocity": "0.0",
+        "direction": "45.0",
+        "call_id": "",
+        "geom": "0101000020E61000002D776682E1995EC02C9D0FCF12E24240",
+        "marvlis_bayes_id": "13707008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.404389,
+          37.766199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "169",
+        "vehicleid": "E14",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:14",
+        "velocity": "25.0",
+        "direction": "58.0",
+        "call_id": "122510001.0",
+        "geom": "0101000020E61000004E4354E1CF9E5EC0D7F84CF6CFE34240",
+        "marvlis_bayes_id": "13707009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.481438,
+          37.779784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "170",
+        "vehicleid": "RC1",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:18",
+        "velocity": "48.0",
+        "direction": "79.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E61000008E1EBFB7E9955EC0543A58FFE7E84240",
+        "marvlis_bayes_id": "13707010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34239,
+          37.81958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "171",
+        "vehicleid": "B03",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:05:18",
+        "velocity": "59.0",
+        "direction": "79.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000BA313D6189955EC09B20EA3E00E94240",
+        "marvlis_bayes_id": "13707011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33651,
+          37.82032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "172",
+        "vehicleid": "B03",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:05:28",
+        "velocity": "53.0",
+        "direction": "79.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000DE9387855A955EC0704221020EE94240",
+        "marvlis_bayes_id": "13707012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33365,
+          37.82074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "173",
+        "vehicleid": "67",
+        "status": "DISPATCH",
+        "rptdatetime": "2012-09-07 00:05:28",
+        "velocity": "0.0",
+        "direction": "54.0",
+        "call_id": "122510004.0",
+        "geom": "0101000020E61000003CF71E2E399A5EC07094BC3AC7E44240",
+        "marvlis_bayes_id": "13707013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40974,
+          37.78733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "174",
+        "vehicleid": "RC1",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:28",
+        "velocity": "52.0",
+        "direction": "78.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E61000000FB9196EC0955EC0BED9E6C6F4E84240",
+        "marvlis_bayes_id": "13707014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33987,
+          37.81997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "175",
+        "vehicleid": "E36",
+        "status": "DISPATCH",
+        "rptdatetime": "2012-09-07 00:05:28",
+        "velocity": "3.0",
+        "direction": "97.0",
+        "call_id": "122510004.0",
+        "geom": "0101000020E6100000897E6DFDF49A5EC00C59DDEA39E34240",
+        "marvlis_bayes_id": "13707015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421203,
+          37.775205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "176",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:05:28",
+        "velocity": "24.0",
+        "direction": "80.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E610000073BA2C2636955EC0B70BCD751AE94240",
+        "marvlis_bayes_id": "13707016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33143,
+          37.82112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "177",
+        "vehicleid": "RC1",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:38",
+        "velocity": "51.0",
+        "direction": "78.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E610000024D1CB2896955EC0B7D100DE02E94240",
+        "marvlis_bayes_id": "13707017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33729,
+          37.8204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "178",
+        "vehicleid": "67",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:38",
+        "velocity": "25.0",
+        "direction": "69.0",
+        "call_id": "122510004.0",
+        "geom": "0101000020E610000035B56CAD2F9A5EC01C7C613255E44240",
+        "marvlis_bayes_id": "13707018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40916,
+          37.78385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "179",
+        "vehicleid": "67",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:38",
+        "velocity": "13.0",
+        "direction": "25.0",
+        "call_id": "122510004.0",
+        "geom": "0101000020E6100000AA4885B1859A5EC008AC1C5A64E34240",
+        "marvlis_bayes_id": "13707019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41441,
+          37.7765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "180",
+        "vehicleid": "67",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:38",
+        "velocity": "30.0",
+        "direction": "70.0",
+        "call_id": "122510004.0",
+        "geom": "0101000020E6100000B5C35F93359A5EC094D920938CE44240",
+        "marvlis_bayes_id": "13707020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40952,
+          37.78554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "181",
+        "vehicleid": "67",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:38",
+        "velocity": "34.0",
+        "direction": "25.0",
+        "call_id": "122510004.0",
+        "geom": "0101000020E6100000718FA50F5D9A5EC0EB73B515FBE34240",
+        "marvlis_bayes_id": "13707021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41193,
+          37.7811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "182",
+        "vehicleid": "67",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:38",
+        "velocity": "18.0",
+        "direction": "76.0",
+        "call_id": "122510004.0",
+        "geom": "0101000020E6100000EE258DD13A9A5EC08D28ED0DBEE44240",
+        "marvlis_bayes_id": "13707022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40984,
+          37.78705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "183",
+        "vehicleid": "67",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:38",
+        "velocity": "0.0",
+        "direction": "54.0",
+        "call_id": "122510004.0",
+        "geom": "0101000020E61000003CF71E2E399A5EC07094BC3AC7E44240",
+        "marvlis_bayes_id": "13707023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40974,
+          37.78733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "184",
+        "vehicleid": "B03",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:05:38",
+        "velocity": "34.0",
+        "direction": "79.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000906B43C538955EC005DD5ED218E94240",
+        "marvlis_bayes_id": "13707024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33159,
+          37.82107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "185",
+        "vehicleid": "67",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:38",
+        "velocity": "34.0",
+        "direction": "36.0",
+        "call_id": "122510004.0",
+        "geom": "0101000020E610000066A032FE7D9A5EC0168733BF9AE34240",
+        "marvlis_bayes_id": "13707025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41394,
+          37.77816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "186",
+        "vehicleid": "67",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:38",
+        "velocity": "37.0",
+        "direction": "26.0",
+        "call_id": "122510004.0",
+        "geom": "0101000020E610000058C51B99479A5EC05C72DC291DE44240",
+        "marvlis_bayes_id": "13707026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41062,
+          37.78214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "187",
+        "vehicleid": "67",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:38",
+        "velocity": "32.0",
+        "direction": "26.0",
+        "call_id": "122510004.0",
+        "geom": "0101000020E6100000DF6C73637A9A5EC032ACE28DCCE34240",
+        "marvlis_bayes_id": "13707027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41372,
+          37.77968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "188",
+        "vehicleid": "E14",
+        "status": "ON RADIO",
+        "rptdatetime": "2012-09-07 00:05:41",
+        "velocity": "22.0",
+        "direction": "68.0",
+        "call_id": "",
+        "geom": "0101000020E6100000B9FFC874E89E5EC064062AE3DFE34240",
+        "marvlis_bayes_id": "13707028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.482938,
+          37.78027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "189",
+        "vehicleid": "E14",
+        "status": "ON RADIO",
+        "rptdatetime": "2012-09-07 00:05:41",
+        "velocity": "25.0",
+        "direction": "58.0",
+        "call_id": "",
+        "geom": "0101000020E61000004E4354E1CF9E5EC0D7F84CF6CFE34240",
+        "marvlis_bayes_id": "13707029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.481438,
+          37.779784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "190",
+        "vehicleid": "E14",
+        "status": "ON RADIO",
+        "rptdatetime": "2012-09-07 00:05:41",
+        "velocity": "25.0",
+        "direction": "66.0",
+        "call_id": "",
+        "geom": "0101000020E6100000268FA7E5079F5EC0CB67791EDCE34240",
+        "marvlis_bayes_id": "13707030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.484857,
+          37.780155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "191",
+        "vehicleid": "E48",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:05:42",
+        "velocity": "42.0",
+        "direction": "65.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000B2DAFCBFEA945EC0C6F7C5A52AE94240",
+        "marvlis_bayes_id": "13707031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.326828,
+          37.821614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "192",
+        "vehicleid": "E48",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:05:42",
+        "velocity": "41.0",
+        "direction": "58.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000596C938AC6945EC098F8A3A833E94240",
+        "marvlis_bayes_id": "13707032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.324618,
+          37.821889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "193",
+        "vehicleid": "E48",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:05:42",
+        "velocity": "0.0",
+        "direction": "9.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000C30C8D2782945EC0884CF91054E94240",
+        "marvlis_bayes_id": "13707033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320444,
+          37.822878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "194",
+        "vehicleid": "E48",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:05:42",
+        "velocity": "13.0",
+        "direction": "51.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000BB99D18F86945EC0B79C4B7155E94240",
+        "marvlis_bayes_id": "13707034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320713,
+          37.82292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "195",
+        "vehicleid": "E48",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:05:42",
+        "velocity": "31.0",
+        "direction": "51.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000F435CB65A3945EC0377172BF43E94240",
+        "marvlis_bayes_id": "13707035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.322473,
+          37.82238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "196",
+        "vehicleid": "54",
+        "status": "AT SCENE",
+        "rptdatetime": "2012-09-07 00:05:44",
+        "velocity": "18.0",
+        "direction": "83.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E6100000ACC5A70018955EC030F5F3A622E94240",
+        "marvlis_bayes_id": "13707037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32959,
+          37.82137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "197",
+        "vehicleid": "E14",
+        "status": "ON RADIO",
+        "rptdatetime": "2012-09-07 00:05:44",
+        "velocity": "22.0",
+        "direction": "68.0",
+        "call_id": "",
+        "geom": "0101000020E6100000B9FFC874E89E5EC064062AE3DFE34240",
+        "marvlis_bayes_id": "13707036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.482938,
+          37.78027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "198",
+        "vehicleid": "T48",
+        "status": "ON RADIO",
+        "rptdatetime": "2012-09-07 00:05:46",
+        "velocity": "0.0",
+        "direction": "0.0",
+        "call_id": "",
+        "geom": "0101000020E6100000A2D11DC4CE975EC011FE45D098E94240",
+        "marvlis_bayes_id": "13707038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.371995,
+          37.824976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "199",
+        "vehicleid": "RC1",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:48",
+        "velocity": "46.0",
+        "direction": "79.0",
+        "call_id": "122500374.0",
+        "geom": "0101000020E61000002159C0046E955EC0691D554D10E94240",
+        "marvlis_bayes_id": "13707039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33484,
+          37.82081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "200",
+        "vehicleid": "82",
+        "status": "ENROUTE",
+        "rptdatetime": "2012-09-07 00:05:49",
+        "velocity": "5.0",
+        "direction": "78.0",
+        "call_id": "122510003.0",
+        "geom": "0101000020E610000057B26323109B5EC00DFD135CACE44240",
+        "marvlis_bayes_id": "13707040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42286,
+          37.78651
+        ]
+      }
+    }
+  ]
+}
