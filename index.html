@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset=utf-8 />
+	<title>Loading markers from CSV</title>
+	<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+	<script src='https://api.tiles.mapbox.com/mapbox.js/v2.1.8/mapbox.js'></script>
+	<link href='https://api.tiles.mapbox.com/mapbox.js/v2.1.8/mapbox.css' rel='stylesheet' />
+	<script src="http://d3js.org/d3.v3.min.js"></script>
+	<style>
+	@import url(//cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.2/leaflet.css);
+	body { margin:0; padding:0; }
+	#map { position:absolute; top:0; bottom:0; width:100%; }
+	</style>
+</head>
+<body>
+	<script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.2.0/leaflet-omnivore.min.js'></script>
+
+	<div id='map'></div>
+	<script src="moment.js"></script>
+
+	<script>
+	L.mapbox.accessToken = 'pk.eyJ1IjoibWphbWVpIiwiYSI6ImN4al9sc1UifQ.oRuyuMFAhrzIMhKsFPtyqw';
+	var map = L.mapbox.map('map', 'mjamei.lo0ail58')
+	.setView([37.751, -122.45], 12);
+
+// Omnivore will AJAX-request this file behind the scenes and parse it:
+// note that there are considerations:
+// - The CSV file must contain latitude and longitude values, in column
+//   named roughly latitude and longitude
+// - The file must either be on the same domain as the page that requests it,
+//   or both the server it is requested from and the user's browser must
+//   support CORS.
+var svg = d3.select(map.getPanes().overlayPane).append('svg'),
+g = svg.append("g").attr('class', 'leaflet-zoom-hide');
+
+d3.json('data/oneday.json', function(collection) {
+	var transform = d3.geo.transform({point: projectPoint}),
+	path = d3.geo.path().projection(transform);
+
+	var feature = g.selectAll("path")
+	.data(collection.features)
+	.enter().append("path").attr('class', function(d) {
+		return "v"+ d.properties.vehicleid;
+	}).attr('style', 'opacity: 0');
+
+	var marker = g.append("circle");
+	marker.attr("r", 5)
+	.attr("id", "marker");
+
+	var i = 77;
+	var counter = 0;
+     var timeFactor = 5; //number of minutes in real life to a second in the viz
+     var tweenToggle = 0;
+
+     // var x = d3.select("path.v57").transition().style('fill', 'red').attr("style", "opacity:1").transition().delay(1000).style('fill', 'black').attr('style', 'opacity: 0.2').delay(1000);
+
+     function iterate() {
+
+     	// var chartInterval = 0;
+     	// var emptyData = [];
+     	var lapse = 100;
+     	var path = svg.selectAll("path.v" + i).each(function(obj, ind){
+     		console.log(obj.geometry);
+     		// 
+     		d3.select(this).transition().style('fill', 'black').attr('style', 'opacity: 1').delay(lapse*ind).transition().attr("style", "opacity:0").delay(lapse*ind + lapse);
+     	});
+     	
+
+     	// function pathStartPoint(path) {
+     	// 	var d = path.attr('d');
+      //           //alert(d)
+
+      //           dsplitted = d.split("L")[0].slice(1);
+
+      //           return dsplitted;
+      //       }
+      //       var startPoint = pathStartPoint(path);
+      //       marker.attr("transform", "translate(" + startPoint + ")");
+            
+
+            function transit(path) {
+            	path.attr("style", "opacity:0.2, color: 'red'").transition(1000);
+            	counter++;
+
+                if (counter < 10) {
+                	iterate();
+                }; 
+                };
+
+            
+
+      //       function tweenDash(d) {
+
+      //       	var l = path.node().getTotalLength();
+      //       var i = d3.interpolateString("0," + l, l + "," + l); // interpolation of stroke-dasharray style attr
+      //       return function (t) {
+      //       	var marker = d3.select("#marker");
+      //       	var p = path.node().getPointAtLength(t * l);
+      //           marker.attr("transform", "translate(" + p.x + "," + p.y + ")");//move marker
+
+      //           //console.log(tweenToggle);
+      //           if (tweenToggle == 0) {
+      //           	tweenToggle = 1;
+      //           	var newCenter = map.layerPointToLatLng(new L.Point(p.x,p.y));
+      //               //map.setView(newCenter, 14);
+      //               map.panTo(newCenter, 14);
+      //           } else {
+      //           	tweenToggle = 0;
+      //           }
+      //           //console.log(t);
+
+      //               //update chart data every X frames
+      //               if(chartInterval == 5){
+
+      //               	chartInterval = 0;
+
+
+
+      //               	var decimalHour = parseInt(time.format('H')) + parseFloat(time.format('m')/60)
+      //                   //console.log(d);
+
+
+
+      //                   if(isNaN(d.properties.fare)){
+      //                   	d.properties.fare = 0; 
+      //                   }
+
+      //                   var incrementalFare = d.properties.fare*t;
+      //                   //console.log(runningFare + " " + incrementalFare + " " + decimalHour); 
+
+                        
+      //                   dummyData.push({
+      //                   	"time": decimalHour,
+      //                   	"runningFare": runningFare + parseFloat(incrementalFare)
+      //                   });
+
+      //                   //console.log(dummyData);
+
+      //                   chartPath.attr("d", area); 
+      //                   if(d.properties.hasfare == false) {
+      //                   	emptyData.push({
+      //                   		"time": decimalHour,
+      //                   		"runningFare": runningFare + parseFloat(incrementalFare)
+      //                   	});
+
+      //                   	emptyPath.attr("d", area);
+      //                   }
+
+      //                   //at the end, write runningfare and decimalHour 
+                        
+
+
+      //               } else {
+      //               	chartInterval++;
+      //               }
+
+
+      //               return i(t);
+      //           }
+      //       }
+        }
+        
+        iterate();
+
+        map.on("viewreset", reset);
+        reset();
+
+  // Reposition the SVG to cover the features.
+  function reset() {
+  	var bounds = path.bounds(collection),
+  	topLeft = bounds[0],
+  	bottomRight = bounds[1];
+
+  	svg .attr("width", bottomRight[0] - topLeft[0])
+  	.attr("height", bottomRight[1] - topLeft[1])
+  	.style("left", topLeft[0] + "px")
+  	.style("top", topLeft[1] + "px");
+
+  	g   .attr("transform", "translate(" + -topLeft[0] + "," + -topLeft[1] + ")");
+
+  	feature.attr("d", path);
+  }
+
+  // Use Leaflet to implement a D3 geometric transformation.
+  function projectPoint(x, y) {
+  	var point = map.latLngToLayerPoint(new L.LatLng(y, x));
+  	this.stream.point(point.x, point.y);
+  }
+});
+// omnivore.csv('data/oneday.csv').addTo(map);
+</script>
+</body>
+</html>
